@@ -8,7 +8,7 @@ body {
   }
 
 main {
-    cursor: url('/images/1584-halloween-coffin-and-ghost-cursor.png'), auto;
+    cursor: url('./images/1584-halloween-coffin-and-ghost-cursor.png'), auto;
     
 }
   
